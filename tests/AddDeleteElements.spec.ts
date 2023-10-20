@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 
-//Step 1 write out the tests in full detail
+//Number 1: Add/Delete elements 
 test("Website has a title", async ({ page }) => {
   await page.goto("https://the-internet.herokuapp.com/add_remove_elements/");
   await expect(page).toHaveTitle(/Internet/);
