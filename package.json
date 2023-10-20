@@ -1,0 +1,22 @@
+{
+  "name": "webautomation",
+  "version": "1.0.0",
+  "description": "This is the repository where I am practicing testing with Playwright using TypeScript.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaira-Joel/webautomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaira-Joel/webautomation/issues"
+  },
+  "homepage": "https://github.com/Chaira-Joel/webautomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.7"
+  }
+}
