@@ -2,7 +2,6 @@ import { test, expect } from "@playwright/test";
 
 const userName = "tomsmith";
 const passsWord = "SuperSecretPassword!";
-
 const errorName = "tomjohnson";
 const errorPassword = "testnameyes";
 
