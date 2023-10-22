@@ -1,5 +1,5 @@
 import { test, expect } from "@playwright/test";
-import { filePickerSite } from "../fixtures/data/data";
+import { filePickerSite } from "../../fixtures/data/data";
 
 test("Should upload a photo to the file picker", async ({ page }) => {
   await page.goto(filePickerSite);
