@@ -4,4 +4,4 @@ This is the repository where I am practicing testing with Playwright using TypeS
 
 ## Tests Internet
 
-The tests that can be found in the foler tests\internet are tests that I have created for the practice website https://the-internet.herokuapp.com/
+The tests that can be found in the folder tests\internet are tests that I have created for the practice website https://the-internet.herokuapp.com/
