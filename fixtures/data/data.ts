@@ -4,6 +4,7 @@ const loggedIn = "https://the-internet.herokuapp.com/secure";
 const hoverSite = "https://the-internet.herokuapp.com/hovers";
 const dragDropSite = "https://the-internet.herokuapp.com/drag_and_drop";
 const addRemoveSite = "https://the-internet.herokuapp.com/add_remove_elements/";
+const entryAdSite = "https://the-internet.herokuapp.com/entry_ad"
 const userName = "tomsmith";
 const passsWord = "SuperSecretPassword!";
 const errorName = "tomjohnson";
@@ -12,6 +13,7 @@ const errorPassword = "testnameyes";
 export {
   filePickerSite,
   loginSite,
+  entryAdSite,
   addRemoveSite,
   dragDropSite,
   hoverSite,
