@@ -1,4 +1,4 @@
-# webautomation
+# AWbautomation using PlayWright
 
 This is the repository where I am practicing testing with Playwright using TypeScript. I have used the site the-internet.herokuapp.com for practicing with interacting with elements.
 
